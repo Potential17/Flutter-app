@@ -43,6 +43,13 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   # assets:
+  - images/spotify_logo_banner_black.png
+   - images/spotify_logo_title.png
+   - images/spotify_logo_vertical_black.jpg
+   - images/spotify_logo.jpg
+   - images/spotify_smaller.png
+   - images/Spotify_logo_horizontal_black.jpg
+
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
 
