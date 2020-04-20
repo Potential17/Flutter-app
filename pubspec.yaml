@@ -20,7 +20,6 @@ dependencies:
   flutter:
     sdk: flutter
     firebase_auth: any
-    firebase_core: ^0.2.5
   spotify: ^0.3.0
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
