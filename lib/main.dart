@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:spotify_clone/components/auth.dart';
 import 'login.dart';
 import 'signup.dart';
 
