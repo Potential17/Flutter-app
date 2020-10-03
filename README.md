@@ -1,4 +1,4 @@
-# flutter_login
+# Flutter App
 
 A new Flutter application.
 
