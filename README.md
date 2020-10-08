@@ -1,3 +1,7 @@
+#HitCount
+
+http://hits.dwyl.com/Potential17/https://githubcom/Potential17/Flutter-app.svg)](http://hits.dwyl.com/Potential17/https://githubcom/Potential17/Flutter-app
+
 # Flutter App
 
 A new Flutter application.
